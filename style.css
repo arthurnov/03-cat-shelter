@@ -5,12 +5,12 @@ body {
     background-image: url(assets/images/backgroud.jpg);
     background-repeat: repeat;
 
-
 }
 
 header {
     text-align: center;
     font-weight: bolder;
+    text-shadow: 2px 2px 2px lightblue;
 }
 
 main>p {
