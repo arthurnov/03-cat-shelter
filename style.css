@@ -1,0 +1,13 @@
+head,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+main > p  {
+    width: 60%;
+}
