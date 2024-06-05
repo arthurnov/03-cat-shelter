@@ -5,6 +5,7 @@ body {
     background-image: url(assets/images/backgroud.jpg);
     background-repeat: repeat;
 
+
 }
 
 header {
@@ -12,6 +13,9 @@ header {
     font-weight: bolder;
 }
 
-main > p {
+main>p {
+    width: 75%;
+    margin: auto;
+    padding: auto;
     font-weight: bold;
 }
