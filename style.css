@@ -2,12 +2,16 @@ head,
 body {
     padding: 0;
     margin: 0;
+    background-image: url(assets/images/backgroud.jpg);
+    background-repeat: repeat;
+
 }
 
 header {
     text-align: center;
+    font-weight: bolder;
 }
 
-main > p  {
-    width: 60%;
+main > p {
+    font-weight: bold;
 }
